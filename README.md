@@ -21,3 +21,8 @@
 - 😄 Words that describe me - Self-motivated, Focused, Hardworking & Perfectionist.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Memes, Games.
+
+## **Projects:**
+* [Movie-Recommendation-System](http://mrs-saad.herokuapp.com/)
+* [SMS-Spam-Classifier](https://esc-saad.herokuapp.com/)
+* [Whatsapp-Chat-Analyser](https://saad-wca-system.herokuapp.com/)
