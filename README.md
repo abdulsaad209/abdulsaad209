@@ -25,4 +25,4 @@
 ## **Projects:**
 * [Movie-Recommendation-System](http://mrs-saad.herokuapp.com/)
 * [SMS-Spam-Classifier](https://esc-saad.herokuapp.com/)
-* [Whatsapp-Chat-Analyser](https://saad-wca-system.herokuapp.com/)
+* [Whatsapp-Chat-Analyser](https://wca-saadi.herokuapp.com/)
