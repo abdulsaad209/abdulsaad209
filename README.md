@@ -8,7 +8,7 @@
 📫 Reach me on: 
 * Check out my <a href="https://saad-portfolio22334562.on.drv.tw/website.com/" target="_blank">Portfolio</a>
 * My profile on [Linkedin](https://www.linkedin.com/in/saad-zahid-201298215/)
-* My contribution in Data Science in [Kaggle](https://www.kaggle.com/saadmehar)
+* My contribution in Data Science at [Kaggle](https://www.kaggle.com/saadmehar)
 * My updates in [Twitter](https://twitter.com/Muhammad_Saad44)
 * My [Facebook](https://www.facebook.com/profile.php?id=100073194986195)
 
