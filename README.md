@@ -24,7 +24,7 @@
 
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsaad209&layout=compact&title_color=FF34B3&icon_color=43CD80&test_color=33A1C9&bg_color=050505&text_color=87CEFF&card_width=445'>
 
-## **Projects:**
+## *Projects:*
 * [Movie-Recommendation-System](http://mrs-saad.herokuapp.com/)
 * [SMS-Spam-Classifier](https://esc-saad.herokuapp.com/)
 * [Whatsapp-Chat-Analyser](https://wca-saadi.herokuapp.com/)
