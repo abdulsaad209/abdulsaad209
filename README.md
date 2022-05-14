@@ -22,8 +22,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Memes, Games.                       
 
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsaad209&layout=compact&title_color=FF34B3&icon_color=43CD80&test_color=33A1C9&bg_color=050505&text_color=87CEFF&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsaad209&layout=compact&title_color=FF34B3&icon_color=43CD80&test_color=33A1C9&bg_color=050505&text_color=87CEFF&card_width=445'>
 
 ## **Projects:**
 * [Movie-Recommendation-System](http://mrs-saad.herokuapp.com/)
