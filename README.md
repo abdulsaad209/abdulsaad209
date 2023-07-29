@@ -1,6 +1,6 @@
-### Hello World, it's Saad 👋 (Muhammad Saad Zahid)
+### Hello World, it's Saad 👋
 
-### Data Scientist | ML Engineer | Developer.
+### Linux System Administrator | Data Scientist | ML Engineer |
 
 
 #### *I am a Data Scientist with 1+ year of experience in Machine Learning and Deep Learning. I am also a student of Undergraduate in Information Technology. My vision is to go forward with the automation technology that's why i am enthusiast to Artificial Intelligence.*
