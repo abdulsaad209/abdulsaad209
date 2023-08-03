@@ -18,7 +18,8 @@
 ## *My github Stats*
 
 - 🔭 I’m currently working as a Linux System Administrator for a service base company.
-- 🌱 I’m currently learningEmerging Technologies including Artificial Intelligence, Devops and Cyber Security.<img align='right' src="https://github-readme-stats.vercel.app/api?username=abdulsaad209&&show_icons=true&title_color=FF34B3&icon_color=43CD80&test_color=33A1C9&bg_color=050505&text_color=87CEFF">
+- 🌱 I’m currently learningEmerging Technologies including Artificial Intelligence, Devops and Cyber Security.
+- <img align='right' src="https://github-readme-stats.vercel.app/api?username=abdulsaad209&&show_icons=true&title_color=FF34B3&icon_color=43CD80&test_color=33A1C9&bg_color=050505&text_color=87CEFF">
 - 👯 I’m looking to collaborate on AI base Company.
 - 💬 Ask me about Machine Learning or any AI base stuff.
 - 😄 Words that describe me - Self-motivated, Focused, Hardworking & Perfectionist.
