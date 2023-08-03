@@ -3,7 +3,7 @@
 ### Linux System Administrator || Devops Engineer || RHCSA || RHCE || Python || Data Science || Machine Learning
 
 #### *Highly skilled Linux Administrator with 2+ years of experience in designing, implementing, and maintaining mission-critical systems. Recognized for exceptional problem-solving abilities and the ability to deliver timely and effective solutions. Adept at working collaboratively with cross-functional teams to drive project success and meet business objectives.*
-#### *Also have experience in Data Science, Machine Learning technology to built models with good accuracy, test, optmize and deploy as per clients requiremtns.
+#### *Also have experience in Data Science, Machine Learning technology to built models with good accuracy, test, optmize and deploy as per clients requiremtns.*
 
 <img  align='right' width=400 src='https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-max-1mb.gif'>
 
