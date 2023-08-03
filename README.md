@@ -13,6 +13,8 @@
 * My contribution in Data Science at [Kaggle](https://www.kaggle.com/saadmehar)
 * My updates in [Twitter](https://twitter.com/Muhammad_Saad44)
 * My [Facebook](https://www.facebook.com/profile.php?id=100073194986195)
+* My [Gmail](saadzahid248@gmail.com)
+
 
 
 ## *My github Stats*
