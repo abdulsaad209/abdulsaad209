@@ -11,8 +11,6 @@
 * Check out my <a href="https://saad-portfolio22334562.on.drv.tw/portfolio.com/" target="_blank">Portfolio</a>
 * My profile on [Linkedin](https://www.linkedin.com/in/m-saad1/)
 * My contribution in Data Science at [Kaggle](https://www.kaggle.com/saadmehar)
-* My updates in [Twitter](https://twitter.com/Muhammad_Saad44)
-* My [Facebook](https://www.facebook.com/profile.php?id=100073194986195)
 * My [Gmail](saadzahid248@gmail.com)
 
 
