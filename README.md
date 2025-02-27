@@ -11,7 +11,7 @@
 * Check out my <a href="http://139.185.33.89/" target="_blank">Portfolio</a>
 * My profile on [Linkedin](https://www.linkedin.com/in/saad-zahid11/)
 * My contribution in Data Science at [Kaggle](https://www.kaggle.com/saadmehar)
-* My [Gmail](saadzahid248@gmail.com)
+* My Gmail [saadzahid248@gmail.com]
 
 
 
