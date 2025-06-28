@@ -33,4 +33,8 @@
 * [Movie-Recommendation-System](https://github.com/abdulsaad209/Movie-Recommendation-System)
 * [SMS-Spam-Classifier](https://github.com/abdulsaad209/SMS-spam-classifier-webapp)
 * [Whatsapp-Chat-Analyser](https://github.com/abdulsaad209/Whatsapp-Chat-Analyzer)
+* [Deploy NodeJS Application with Github Actions](https://github.com/abdulsaad209/Github-Actions-NodeJS-Deployment)
+* [Deploy NodeJS Application with Gitlab CI](https://github.com/abdulsaad209/Deployed-NodeJS-Application-Gitlab)
+* [Deploy and Configure Ansible AWX/Tower](https://github.com/abdulsaad209/Ansible_Tower)
+* [DevOps Automation Scripts](https://github.com/abdulsaad209/Automation-Scripts) & [Playbooks](https://github.com/abdulsaad209/Ansible_Tower)
 
