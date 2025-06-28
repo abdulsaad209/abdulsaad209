@@ -8,27 +8,31 @@
 <img  align='right' width=400 src='https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-max-1mb.gif'>
 
 ## *📫 Reach me on:*
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=abdulsaad209&&show_icons=true&title_color=FF34B3&icon_color=43CD80&test_color=33A1C9&bg_color=050505&text_color=87CEFF">
+
 * Check out my <a href="https://szcoders.com" target="_blank">Portfolio</a>
 * My profile on [Linkedin](https://www.linkedin.com/in/saad-zahid11/)
 * My contribution in Data Science at [Kaggle](https://www.kaggle.com/saadmehar)
-* My Gmail [saadzahid248@gmail.com]
-
-
+* My Gmail [saadzahid248@gmail.com](saadzahid248@gmail.com)
+<p>&nbsp;</p>
 
 ## *My github Stats*
 
 - 🔭 I’m currently working as a Linux System Administrator for a product base company.
 - 🌱 I’m currently learningEmerging Technologies including Artificial Intelligence, DevOps and Cyber Security.
-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=abdulsaad209&&show_icons=true&title_color=FF34B3&icon_color=43CD80&test_color=33A1C9&bg_color=050505&text_color=87CEFF">
 - 👯 I’m looking to collaborate with industry who has working on AI and Latest Emerging Technologies.
 - 💬 Ask me about DevOps | SysAdmin | MLOps | AI.
 - 😄 Words that describe me - Self-motivated, Focused, Hardworking, Love Learning.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Video Games, Cricket, Memes.                       
 
-<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsaad209&layout=compact&title_color=FF34B3&icon_color=43CD80&test_color=33A1C9&bg_color=050505&text_color=87CEFF&card_width=445'>
+
 
 ## *Projects:*
+
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsaad209&layout=compact&title_color=FF34B3&icon_color=43CD80&test_color=33A1C9&bg_color=050505&text_color=87CEFF&card_width=445'>
+
 * [Implement DevOps on a Golang Projact](https://github.com/abdulsaad209/Go-App-Without-DevOps)
 * [Movie-Recommendation-System](https://github.com/abdulsaad209/Movie-Recommendation-System)
 * [SMS-Spam-Classifier](https://github.com/abdulsaad209/SMS-spam-classifier-webapp)
